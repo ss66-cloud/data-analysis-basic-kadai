@@ -1,0 +1,63 @@
+Script started on 2025-05-30 02:28:09+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="178" LINES="24"]
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai [0;36m([1;31mmain[0;36m) [0m$ cd [K[K[Kcat session.logll[Kgit push origin maincommit -m "new folder"[9Padd kadai_003[1P kadai_003[1P kadai_003[1P kadai_003[1Pkadai_003[1P kadai_003[1P kadai_003[1P kadai_003c kadai_003d kadai_003
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai/kadai_003 [0;36m([1;31mmain[0;36m) [0m$ k[Kll
+total 8
+drwxrwxrwx+ 2 codespace codespace 4096 May 30 02:12 [0m[34;42m.[0m/
+drwxrwxrwx+ 4 codespace root      4096 May 30 02:23 [34;42m..[0m/
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai/kadai_003 [0;36m([1;31mmain[0;36m) [0m$ llcd kadai_003at session.logll[Kgit push origin main[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit add .
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai/kadai_003 [0;36m([1;31mmain[0;36m) [0m$ git commit -m ""n"e"w" "f"i"l"e"
+[main 2ff35ec] new file
+ 1 file changed, 51 insertions(+)
+ create mode 100644 kadai_003/3_1.ipynb
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai/kadai_003 [0;36m([1;31mmain[0;36m) [0m$ git commit -m "new file"add .[Kll[Kcd kadai_003at session.logll[Kgit push origin maincommit -m "new folder"[6Ppush origin main
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Delta compression using up to 2 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 786 bytes | 786.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/ss66-cloud/data-analysis-basic-kadai
+   6d1a97a..2ff35ec  main -> main
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai/kadai_003 [0;36m([1;31mmain[0;36m) [0m$ cd ../
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai [0;36m([1;31mmain[0;36m) [0m$ ll
+total 24
+drwxrwxrwx+ 4 codespace root      4096 May 30 02:23 [0m[34;42m.[0m/
+drwxr-xrwx+ 5 codespace root      4096 May 30 02:09 [34;42m..[0m/
+drwxrwxrwx+ 9 codespace root      4096 May 30 02:30 [34;42m.git[0m/
+-rw-rw-rw-  1 codespace root        27 May 30 02:09 README.md
+drwxrwxrwx+ 2 codespace codespace 4096 May 30 02:29 [34;42mkadai_003[0m/
+-rw-rw-rw-  1 codespace codespace 2738 May 30 02:40 session.log
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai [0;36m([1;31mmain[0;36m) [0m$ mkdir kadaihttps://github.com/ss66-cloud/data-analysis-basic-kadai/tree/main/kadai_003[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K_005
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai [0;36m([1;31mmain[0;36m) [0m$ ll
+total 28
+drwxrwxrwx+ 5 codespace root      4096 May 30 02:41 [0m[34;42m.[0m/
+drwxr-xrwx+ 5 codespace root      4096 May 30 02:09 [34;42m..[0m/
+drwxrwxrwx+ 9 codespace root      4096 May 30 02:30 [34;42m.git[0m/
+-rw-rw-rw-  1 codespace root        27 May 30 02:09 README.md
+drwxrwxrwx+ 2 codespace codespace 4096 May 30 02:29 [34;42mkadai_003[0m/
+drwxrwxrwx+ 2 codespace codespace 4096 May 30 02:41 [34;42mkadai_005[0m/
+-rw-rw-rw-  1 codespace codespace 3772 May 30 02:41 session.log
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai [0;36m([1;31mmain[0;36m) [0m$ mk[K[Kllmkdir kadai_005[C[K7
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai [0;36m([1;31mmain[0;36m) [0m$ ll
+total 36
+drwxrwxrwx+ 6 codespace root      4096 May 30 02:42 [0m[34;42m.[0m/
+drwxr-xrwx+ 5 codespace root      4096 May 30 02:09 [34;42m..[0m/
+drwxrwxrwx+ 9 codespace root      4096 May 30 02:30 [34;42m.git[0m/
+-rw-rw-rw-  1 codespace root        27 May 30 02:09 README.md
+drwxrwxrwx+ 2 codespace codespace 4096 May 30 02:29 [34;42mkadai_003[0m/
+drwxrwxrwx+ 2 codespace codespace 4096 May 30 02:41 [34;42mkadai_005[0m/
+drwxrwxrwx+ 2 codespace codespace 4096 May 30 02:42 [34;42mkadai_007[0m/
+-rw-rw-rw-  1 codespace codespace 4530 May 30 02:42 session.log
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai [0;36m([1;31mmain[0;36m) [0m$ llmkdir kadai_007[K8
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai [0;36m([1;31mmain[0;36m) [0m$ ll
+total 40
+drwxrwxrwx+ 7 codespace root      4096 May 30 02:42 [0m[34;42m.[0m/
+drwxr-xrwx+ 5 codespace root      4096 May 30 02:09 [34;42m..[0m/
+drwxrwxrwx+ 9 codespace root      4096 May 30 02:30 [34;42m.git[0m/
+-rw-rw-rw-  1 codespace root        27 May 30 02:09 README.md
+drwxrwxrwx+ 2 codespace codespace 4096 May 30 02:29 [34;42mkadai_003[0m/
+drwxrwxrwx+ 2 codespace codespace 4096 May 30 02:41 [34;42mkadai_005[0m/
+drwxrwxrwx+ 2 codespace codespace 4096 May 30 02:42 [34;42mkadai_007[0m/
+drwxrwxrwx+ 2 codespace codespace 4096 May 30 02:42 [34;42mkadai_008[0m/
+-rw-rw-rw-  1 codespace codespace 5350 May 30 02:42 session.log
+[0;32m@ss66-cloud [0m➜ [1;34m/workspaces/data-analysis-basic-kadai [0;36m([1;31mmain[0;36m) [0m$ git add .
